@@ -1,0 +1,11 @@
+ls : listar pastas ou conteudos dentro dela
+CTRL + l : Limpar terminal
+clear : Limpar todo o terminal
+ls -a : listar paginas ocultas
+mkdir: add uma nova pasta ou arquivo
+git status: saber como o arquivo esta
+git add * ou . : adicionando todas as alteracoes
+git commit : confirmar tiodas alteracoes para subir o codigo
+git psuh + (nome descrito no git ex: main, master) : subir o codigo para o repositorio remoto
+git pull : Em caso de alteracao serve para fazer as ateracoes finais 
+git clone : Add o repositorio a sua maquina 
